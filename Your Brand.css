@@ -227,6 +227,7 @@ img {
     gap: 20px;
 }
 
+
 @media (max-width: 768px) {
     .menu-card {
         flex-direction: column;
